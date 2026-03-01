@@ -1,0 +1,8 @@
+PUT name, nagmani 
+PUT name nagmani 
+PUT x 10 
+PUT y 20 
+DELETE x 
+PUT x 10 
+PUT y 20 
+DELETE x 
